@@ -2,7 +2,7 @@
 
 ## Overview
 
-A service for sharing recipes between users.
+A bash that creates a backup in tar format.
 
 ## Requirement
 
